@@ -5,16 +5,16 @@
                 <div class="row">
                     <div class="col-md-5">
                         <h2 class="footer-heading mb-4">Ellite Colorants and Additives LLP</h2>
-                        <p>+91 8389934342, 900229538</p>
+                        <p>+91 8389934342, 9002295886</p>
                         <p>sales.ellitecolorants@gmail.com</p>
                         <p>Sector 5, Plot 86, Vidhyadhar Nagar, Jaipur, Rajasthan, INDIA-302039</p>
                     </div>
                     <div class="col-md-3 ml-auto">
                         <h2 class="footer-heading mb-4">Links</h2>
                         <ul class="list-unstyled">
-                            <li><a href="about.html">About Us</a></li>
-                            <li><a href="products.html">Products</a></li>
-                            <li><a href="contact.html">Contact Us</a></li>
+                            <li><a href="about.php">About Us</a></li>
+                            <li><a href="products.php">Products</a></li>
+                            <li><a href="contact.php">Contact Us</a></li>
                         </ul>
                     </div>
                     <div class="col-md-3">
