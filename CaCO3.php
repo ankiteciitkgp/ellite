@@ -37,7 +37,7 @@
             </div>
         </div>
     </div>
-    <!--section class="site-section border-bottom">
+    <section class="site-section border-bottom">
         <div class="container">
             <div class="row mb-5 justify-content-center">
                 <div class="col-md-8 text-center">
@@ -49,19 +49,19 @@
                     <div class="p-3 box-with-humber">
                         <div class="number-behind">01.</div>
                         <h2>AC-8T</h2>
-                        <p>The product is a Rutile titanium dioxide pigment with silicon, aluminium inorganic surface treatment, organic surface treatment, with high whiteness, good dispersibility, good tinting strength, high weathering resistance etc.</p>
-                        <p><a href="datasheets/ELLITE_TiO2_R2195.pdf">Learn More</a></p>
+                        <p>AC8T is an advanced surface treated, ultra-fine calcium carbonate manufactured from high purity, very white limestone.</p>
+                        <p><a href="datasheets/ELLITE_CaCO3_AC8T.pdf">Learn More</a></p>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-4 mb-4" data-aos="fade-up" data-aos-delay="100">
                     <div class="p-3 box-with-humber">
                         <div class="number-behind">02.</div>
                         <h2>AC-13T</h2>
-                        <p>R-6618 is a rutile TiO2 pigment produced by zirconium, aluminium inorganic and organic surface treated, designed to have average particle size distribution, good whiteness, high gloss, good dispersion, good hiding power and high weather resistance.</p>
-                        <p><a href="datasheets/ELLITE_TiO2_R6618.pdf">Learn More</a></p>
+                        <p>Natural, surface treated, ultra-fine calcium carbonate manufactured from high purity, very white limestone.</p>
+                        <p><a href="datasheets/ELLITE_CaCO3_AC13T.pdf">Learn More</a></p>
                     </div>
                 </div>
-                <div class="col-md-6 col-lg-4 mb-4" data-aos="fade-up" data-aos-delay="200">
+                <!--div class="col-md-6 col-lg-4 mb-4" data-aos="fade-up" data-aos-delay="200">
                     <div class="p-3 box-with-humber">
                         <div class="number-behind">03.</div>
                         <h2>AC-15T</h2>
@@ -84,10 +84,10 @@
                         <p>SR-240 is an inorganic and organic surface treated rutile TiO2 pigment that is designed to deliver excellent gloss and hiding power, non-chalking and ease of dispersion in plastic and rubber.</p>
                         <p><a href="datasheets/ELLITE_TiO2_SR240.pdf">Learn More</a></p>
                     </div>
-                </div>
+                </div-->
             </div>
         </div>
-    </section-->
+    </section>
     <section class="site-section border-bottom">
         <div class="container">
             <div class="row mb-5 justify-content-center">
@@ -102,7 +102,7 @@
                         <h2>AC-8</h2>
                         <p>AC8 is a high whiteness product derived from pure and bright
                             limestone. It is milled and classified to 8 - 9 microns.</p>
-                        <p><a href="#">Learn More</a></p>
+                        <p><a href="datasheets/ELLITE_CaCO3_AC8.pdf">Learn More</a></p>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-4 mb-4" data-aos="fade-up" data-aos-delay="100">
@@ -110,7 +110,7 @@
                         <div class="number-behind">02.</div>
                         <h2>AC-13</h2>
                         <p>AC13 is a high whiteness calcium carbonate with a medium particle size, good gloss and excellent dispersion characteristics. AC13 is milled and classified to 13 ±1 microns.</p>
-                        <p><a href="#">Learn More</a></p>
+                        <p><a href="datasheets/ELLITE_CaCO3_AC13.pdf">Learn More</a></p>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-4 mb-4" data-aos="fade-up" data-aos-delay="200">
@@ -118,7 +118,7 @@
                         <div class="number-behind">03.</div>
                         <h2>AC-15</h2>
                         <p>AC15 is a high brightness Calcium Carbonate powder manufactured from an exceptionally white limestone with excellent matting properties.</p>
-                        <p><a href="#">Learn More</a></p>
+                        <p><a href="datasheets/ELLITE_CaCO3_AC15.pdf">Learn More</a></p>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-4 mb-4" data-aos="fade-up" data-aos-delay="200">
@@ -126,7 +126,7 @@
                         <div class="number-behind">04.</div>
                         <h2>AC-20</h2>
                         <p>AC20 is a high brightness Calcium Carbonate powder manufactured from high purity, very white limestone</p>
-                        <p><a href="#">Learn More</a></p>
+                        <p><a href="datasheets/ELLITE_CaCO3_AC20.pdf">Learn More</a></p>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-4 mb-4" data-aos="fade-up" data-aos-delay="200">
@@ -134,7 +134,7 @@
                         <div class="number-behind">05.</div>
                         <h2>AC-25</h2>
                         <p>AC25 is a high brightness Calcium Carbonate powder manufactured from an exceptionally white limestone with excellent matting properties.</p>
-                        <p><a href="#">Learn More</a></p>
+                        <p><a href="datasheets/ELLITE_CaCO3_AC25.pdf">Learn More</a></p>
                     </div>
                 </div>
             </div>
